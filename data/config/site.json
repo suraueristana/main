@@ -1,0 +1,11 @@
+{
+  "surauName": "SURAU AR-RAUDHAH ERISTANA",
+  "address": "No.1, Eristana, Persiaran Seri Pristana 1, Seri Pristana, 47000 Sungai Buloh, Selangor.",
+  "registration": "JAI.SEL.BPM/01/037/197",
+  "zone": "SGR02",
+  "timezone": "Asia/Kuala_Lumpur",
+  "timeFormat": "12-hour",
+  "theme": "zamrud",
+  "marqueeSpeedSeconds": 24,
+  "slideSeconds": 10
+}

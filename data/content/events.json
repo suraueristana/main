@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Awal Ramadan",
+    "date": "2027-02-08",
+    "active": true
+  },
+  {
+    "name": "Nuzul al-Quran",
+    "date": "2027-02-24",
+    "active": true
+  },
+  {
+    "name": "Aidilfitri",
+    "date": "2027-03-10",
+    "active": true
+  },
+  {
+    "name": "Aidiladha",
+    "date": "2027-05-17",
+    "active": true
+  },
+  {
+    "name": "Maulidur Rasul",
+    "date": "2027-08-15",
+    "active": true
+  }
+]

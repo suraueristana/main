@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Dana Umum",
+    "balance": 0,
+    "lastUpdated": ""
+  },
+  {
+    "name": "Dana Pembangunan",
+    "balance": 0,
+    "lastUpdated": ""
+  },
+  {
+    "name": "Dana Kelas Ngaji",
+    "balance": 0,
+    "lastUpdated": ""
+  },
+  {
+    "name": "Dana Qurban",
+    "balance": 0,
+    "lastUpdated": ""
+  }
+]
