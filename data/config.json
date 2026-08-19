@@ -1,0 +1,9 @@
+{
+  "surau": {
+    "name": "SURAU AR-RAUDHAH ERISTANA",
+    "address": "No.1, Eristana, Persiaran Seri Pristana 1, Seri Pristana, 47000 Sungai Buloh, Selangor.",
+    "registration": "JAI.SEL.BPM/01/037/197",
+    "zone": "SGR02"
+  },
+  "note": "Public configuration only. Do not store password, IC, phone numbers, tokens, or API secrets here."
+}
