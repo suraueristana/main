@@ -16,7 +16,6 @@ Expected URL: `https://suraueristana.github.io/main/`
 ## Admin
 
 - Open the gear icon.
-- Initial password: `1234`.
 - Change it under **Keselamatan**.
 - Current settings are stored in the browser localStorage of that device.
 
