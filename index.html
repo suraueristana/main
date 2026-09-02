@@ -197,7 +197,7 @@
 			height:calc(100vh - 150px + 94px); 
 			display:grid;
 			grid-template-columns:28% 72%;
-			gap:10px;
+			gap:6px;
 			overflow:hidden;
 		}
 
@@ -205,12 +205,12 @@
 			display:flex;
 			flex-direction:column;
 			align-content:space-between;
-			gap:8px;
-			height:90%;
+			gap:6px;
+			height:95%;
 		}
 
 		.page-title{
-			margin:4px 0 20px;
+			margin:2px 0 20px;
 		}
 
 		.page-title h2{
@@ -220,7 +220,7 @@
 
 		.grid{
 			display:grid;
-			gap:14px;
+			gap:8px;
 		}
 
 		.grid4{
@@ -273,7 +273,7 @@
 		.prayer{
 			display:flex;
 			justify-content:space-between;
-			padding:4px 8px;      /* Reduced from 8px 11px */
+			padding:3px 8px;      /* Reduced from 8px 11px */
 			margin:3px 0;
 			border-radius:6px;
 			font-size:0.82rem;
@@ -290,7 +290,7 @@
 		}
 
 		.count{
-			padding:6px;          /* Reduced from 10px */
+			padding:4px;          /* Reduced from 10px */
 			text-align:center;
 			border:1px solid #f4c95d66;
 			border-radius:8px;
@@ -302,10 +302,10 @@
 		.event{
 			display:flex;
 			justify-content:space-between;
-			padding:6px 8px;      /* Reduced from 10px */
+			padding:4px 8px;      /* Reduced from 10px */
 			background:#ffffff08;
 			border-radius:8px;
-			margin-top:4px;
+			margin-top:2px;
 			font-size:0.8rem;
 		}
 
@@ -334,7 +334,7 @@
 			left:18px;
 			right:18px;
 			bottom:18px;
-			padding:10px 14px;
+			padding:2px 8px;
 			border-radius:10px;
 		}
 
@@ -934,6 +934,10 @@
 		/* =========================================================
 		   20. RESPONSIVE - MOBILE
 		   ========================================================= */
+		@media (orientation:portrait){
+			.main-grid{grid-template-columns:1fr}
+		}
+		
 		@media (max-width:650px){
 			.activity-grid{grid-template-columns:1fr}
 			.activity-gallery{grid-template-columns:1fr 1fr}
